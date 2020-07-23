@@ -26,7 +26,7 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 - **survey_results_public.csv** :Stackoverflow's 2017 Annual Developer Survey data. </br>
 
 ## Result <a name="results"></a>
-- I have analyzed correlation between various parameters by (salary Vs location),(Years of experience Vs Career Satisfaction),(Years of experience Vs Salary Growth Rate).
+- The logistic regression fits the data better than the decision tree model, considering both training and test data errors. From the coefficients of the logistic regression model, can predict which parameters will value to lead to work from home.
 - My blog post https://medium.com/@puchalapalli.gowthami/stack-overflow-data-2017-survey-144502c96cc6
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
