@@ -17,9 +17,9 @@
 ## Project Motivation <a name="motivation"></a>
 Every year, Stack Overflow conducts a massive survey of people on the site, covering all sorts of information like programming languages, salary, code style, and various other information. This year, they amassed more than 64,000 responses fielded from 213 countries.
 For this project, I was interestested in using Stack Overflow data from 2017 to better understand:
-- Which location has the highest salary? </br>
-- Which location has the highest salary growth? </br>
-- which location has the highest career satisfaction? </br>
+- Our developers are likely interested in working from home </br>
+- How Job satisfaction will impact on working from home? </br>
+- what parameters significant effect on work from home developers? </br>
 
 ## File Description <a name="files"></a>
 - **Stack Data.ipynb**: Notebook containing data analysis
